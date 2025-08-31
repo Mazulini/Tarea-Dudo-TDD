@@ -2,8 +2,7 @@
 Tests para la clase Dado del juego Dudo Chileno.
 """
 
-from juego.dado import Dado, Pinta
-
+from src.juego.dado import Dado, Pinta
 
 
 class TestPinta:
