@@ -5,6 +5,7 @@ Tests para la clase Dado del juego Dudo Chileno.
 from juego.dado import Dado, Pinta
 
 
+
 class TestPinta:
     """Tests para el enum Pinta con las denominaciones tradicionales del
     Dudo."""
